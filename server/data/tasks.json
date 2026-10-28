@@ -1,0 +1,82 @@
+[
+  {
+    "id": "f2c1a83d-82f4-4153-bb6f-6138cc5dd112",
+    "createdAt": "2026-10-28T22:46:08.562Z",
+    "title": "Probar persistencia JSON",
+    "description": "",
+    "status": "en_progreso",
+    "priority": "media",
+    "dueDate": "",
+    "updatedAt": "2026-10-28T22:47:08.078Z"
+  },
+  {
+    "id": "t-101",
+    "title": "Repasar hooks de React",
+    "description": "Practicar useState, useEffect, useContext y crear un hook personalizado para el proyecto de la semana 12.",
+    "status": "en_progreso",
+    "priority": "alta",
+    "dueDate": "2026-10-30",
+    "createdAt": "2026-10-20T15:00:00.000Z",
+    "updatedAt": "2026-10-27T18:20:00.000Z"
+  },
+  {
+    "id": "t-102",
+    "title": "Configurar React Router",
+    "description": "Definir rutas para el dashboard, el listado de tareas y el tablero Kanban.",
+    "status": "revision",
+    "priority": "media",
+    "dueDate": "2026-10-29",
+    "createdAt": "2026-10-21T11:30:00.000Z",
+    "updatedAt": "2026-10-26T09:10:00.000Z"
+  },
+  {
+    "id": "t-103",
+    "title": "Estilizar la interfaz con Tailwind",
+    "description": "Aplicar un layout con sidebar, tarjetas y columnas del tablero usando utilidades de Tailwind.",
+    "status": "revision",
+    "priority": "media",
+    "dueDate": "2026-11-02",
+    "createdAt": "2026-10-22T08:00:00.000Z",
+    "updatedAt": "2026-10-28T23:02:22.234Z"
+  },
+  {
+    "id": "t-104",
+    "title": "Persistir tareas en JSON",
+    "description": "Conectar el frontend con Express para leer y escribir server/data/tasks.json.",
+    "status": "en_progreso",
+    "priority": "alta",
+    "dueDate": "2026-10-31",
+    "createdAt": "2026-10-23T16:45:00.000Z",
+    "updatedAt": "2026-10-28T12:00:00.000Z"
+  },
+  {
+    "id": "t-105",
+    "title": "Preparar la demo de la semana",
+    "description": "Ensayar el flujo crear, mover en Kanban y comprobar que el archivo JSON se actualiza.",
+    "status": "pendiente",
+    "priority": "alta",
+    "dueDate": "2026-11-04",
+    "createdAt": "2026-10-24T10:15:00.000Z",
+    "updatedAt": "2026-10-24T10:15:00.000Z"
+  },
+  {
+    "id": "t-106",
+    "title": "Documentar endpoints de la API",
+    "description": "Anotar GET, POST, PUT y DELETE de /api/tasks para la sustentación.",
+    "status": "completada",
+    "priority": "baja",
+    "dueDate": "2026-10-25",
+    "createdAt": "2026-10-18T14:00:00.000Z",
+    "updatedAt": "2026-10-25T19:40:00.000Z"
+  },
+  {
+    "id": "t-107",
+    "title": "Validar formulario de tareas",
+    "description": "Evitar títulos vacíos y fechas inválidas antes de enviar los datos al servidor.",
+    "status": "revision",
+    "priority": "media",
+    "dueDate": "2026-11-01",
+    "createdAt": "2026-10-25T09:20:00.000Z",
+    "updatedAt": "2026-10-28T08:05:00.000Z"
+  }
+]
